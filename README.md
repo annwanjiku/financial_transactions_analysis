@@ -8,7 +8,7 @@ I used python and its libraries to give results of money in, money out and ledge
 # Data interpretation: 
 58% of what made it to the account was used and 42% is what is remaining.
 There was no month that money out significantly exceeded money in.
-There were indeed very high peaks of money in and money out. (which the individual may want to put into account based on how they are using the money)
+There were indeed very high peaks of money in and money out. (which the individual may want to put into account based on how they are using the money and what they are using it for)
 # Conclusion
 2024 has definitely seen a lot of money out so far as compared with money in, again while comparing with 2023.
 The conclusion excluding other financial factors is that the usage is okay.Although they can work toward a 50-50 money in and money out and remove any bias.
