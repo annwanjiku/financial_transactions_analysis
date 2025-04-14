@@ -13,5 +13,4 @@ There were indeed very high peaks of money in and money out. (which the individu
 2024 has definitely seen a lot of money out so far as compared with money in, again while comparing with 2023.
 The conclusion excluding other financial factors is that the usage is okay.Although they can work toward a 50-50 money in and money out and remove any bias.
 
---WE WILL DEFINITELY KEEP MONITORING THEIR TRANSACTIONS TO KEEP THEM ON CHECK AND OFFER BETTER FEEDBACK
 
