@@ -1,8 +1,8 @@
 # FINANCIAL TRANSACTIONS ANALYSIS
 
-I analysed financial transactions over an year for an individual in the period of march 2023- march 2024 
+I analysed financial transactions over an year in the period of march 2023- march 2024 
 # Problem: 
-The individual was unable to correctly determine whether they are using their money(money out) in the right way based on their income (money in)
+The person was unable to correctly determine whether they are using their money(money out) in the right way based on their income (money in)
 # Solution: 
 I used python and its libraries to give results of money in, money out and ledgers progress both visually and non-visually.
 # Data interpretation: 
@@ -15,4 +15,3 @@ The conclusion excluding other financial factors is that the usage is okay.Altho
 
 --WE WILL DEFINITELY KEEP MONITORING THEIR TRANSACTIONS TO KEEP THEM ON CHECK AND OFFER BETTER FEEDBACK
 
-# END
