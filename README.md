@@ -1,8 +1,8 @@
-# FINANCIAL TRANSACTIONS ANALYSIS
+# Financial transaction analysis
 
-I analysed financial transactions over an year in the period of march 2023- march 2024 
+Financial transactions analysed for the period of march 2023- march 2024 
 # Problem: 
-To correctly determine whether they are using their money(money out) in the right way based on their income (money in)
+To correctly determine whether money out balances money in
 # Solution: 
 Used python and its libraries to give results of money in, money out and ledgers progress both visually and non-visually.
 # Data interpretation: 
